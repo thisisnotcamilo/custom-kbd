@@ -1,9 +1,20 @@
 ## Custom keyboard
 
-Probably based on Redox?
+Custom handwire keyboard.
+
+### Features:
+* Ortholinear
+* MX Brown or Blues?
+
+![Layout](https://i.imgur.com/iR8vmhY.png)
+
+* Check [layout link here](http://www.keyboard-layout-editor.com/#/gists/fb98dd9b5394a48995985fcbe280677f)
 
 ### TO-DO:
-* build a layout like: https://karl-voit.at/2021/05/23/advantage2-modifications/2021-06-02T19.30.12%20Keyboard-layout-editor.com%20with%20adapted%20QWERTY%20by%20Karl%20Voit%20--%20screenshots%20publicvoit.png
+* build a layout
+* modify 3dprint case to match layout
+* buy switches
 
 ### References:
 * https://hackaday.io/project/160610-redox-keyboard/log/151316-redox-handwire
+* https://kinesis-ergo.com/wp-content/uploads/KB360-PRO-OH-Bridge_1862x1395.jpg
