@@ -11,9 +11,10 @@ Custom handwire keyboard
 Check [layout link here](http://www.keyboard-layout-editor.com/#/gists/fb98dd9b5394a48995985fcbe280677f)
 
 ### TO-DO:
-1. build a layout
-2. modify 3dprint case to match layout
-3. buy switches
+1. build a layout [~]
+2. modify case to match layout
+3. add a bit of tilt to the case?
+4. brown or blue switches?
 
 ### References:
 1. https://hackaday.io/project/160610-redox-keyboard/log/151316-redox-handwire
